@@ -9,9 +9,9 @@
 
 ## 🔗 LIVE DEMO
 👇 Click the link below to experience the live system:
-### 🌐 [ACCESS THE SURVEY DASHBOARD HERE](https://mike602.pythonanywhere.com/admin)
+### 🌐 [ACCESS THE SURVEY DASHBOARD HERE](https://mike602.pythonanywhere.com/login)
 
-*(Note: If you have a guest/test account, you can provide the credentials here, e.g., Username: admin / Password: test1234. Otherwise, feel free to remove this line).*
+*(Note: If you have a guest/test account, you can provide the credentials here, e.g., Username: user / Password: 123. Otherwise, feel free to remove this line).*
 
 ---
 
