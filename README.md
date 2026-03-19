@@ -19,7 +19,6 @@
 This is an advanced online survey and polling management system inspired by Cyber Threat Intelligence (CTI) dashboards and Norse/Cyberpunk aesthetics. It not only provides powerful data collection and reporting tools but also delivers a visually striking and interactive user experience.
 
 ## ✨ Key Features
-* **🗺️ Live Geo-Tracker Map:** A vector world map with active radar sweep effects, simulating real-time data signals and network traffic.
 * **📊 Dynamic Data Visualization:** Fully integrated with Chart.js. Users can instantly toggle between multiple chart types (Bar, Line, Radar, Ring, Pie, Polar) and export high-quality `.PNG` reports with a single click.
 * **📱 100% Fully Responsive:** Flawless cross-device compatibility. The grid system and UI components automatically adapt to mobile and tablet screens for an optimal viewing experience.
 * **🛡️ Anti-Translate & Custom I18n Engine:** Features a unique "Hidden Dictionary" mechanism to flawlessly translate JavaScript-generated Toast notifications and system popups into 8 different languages without breaking the DOM layout.
